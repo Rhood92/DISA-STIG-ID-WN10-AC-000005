@@ -1,3 +1,30 @@
+# STIG ID: WN10-AC-000005 - Windows 10 account lockout duration must be configured to 15 minutes or greater.
+
+## Synopsis
+This PowerShell script ensures that the account lockout duration is set to 15 minutes.
+
+## Notes
+- **Author**: Richard Hood
+- **LinkedIn**: [Richard Hood Jr.](https://www.linkedin.com/in/richard-hood-jr/)
+- **GitHub**: [Rhood92](https://github.com/Rhood92)
+- **Date Created**: 2025-04-2
+- **Last Modified**: 2025-04-2
+- **Version**: 1.0
+- **CVEs**: N/A
+- **Plugin IDs**: N/A
+- **STIG-ID**: WN10-AC-000005
+  
+## Tested On
+- **Date(s) Tested**: 
+- **Tested By**: 
+- **Systems Tested**: 
+- **PowerShell Ver.**: 
+
+## Usage
+Put any usage instructions here.
+
+Example syntax:
+```powershell
 # PowerShell script to set the account lockout duration to 15 minutes (STIG WN10-AC-000015)
 
 # Requires administrative privileges
